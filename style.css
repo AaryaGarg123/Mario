@@ -40,3 +40,9 @@
     border: 2px solid black;
     color:cyan;
 }
+
+video{
+    background:url("game_console.png") ;
+    background-position: center;
+    background-size:cover ;
+}
